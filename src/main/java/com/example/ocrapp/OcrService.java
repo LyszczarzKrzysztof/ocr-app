@@ -9,7 +9,7 @@ import java.awt.image.BufferedImage;
 import java.net.URL;
 
 @Service
-public class TesseractExample {
+public class OcrService {
 
     public String doOCR(String url) {
 
